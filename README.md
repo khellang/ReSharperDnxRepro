@@ -1,0 +1,2 @@
+# ReSharperDnxRepro
+R# DNX Bug
